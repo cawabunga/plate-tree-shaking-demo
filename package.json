@@ -1,0 +1,25 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "@udecode/plate": "^1.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "slate": "^0.63.0",
+    "slate-history": "^0.62.0",
+    "slate-hyperscript": "^0.62.0",
+    "slate-react": "^0.65.2"
+  }
+}
